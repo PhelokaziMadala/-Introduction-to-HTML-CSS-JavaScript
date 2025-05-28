@@ -7,7 +7,7 @@ A key focus was understanding the Document Object Model (DOM) and how it connect
 Through practical exercises using labs, I gained hands-on experience integrating HTML, CSS, and JavaScript. Additionally, I discovered how HTML leverages APIs to extend interactivity and functionality within web applications.
 
 **🎨🧩Module 2: Building Interactive Webpages with HTML5 & CSS**
-In this module, I developed a deeper understanding of how HTML5 and CSS work together to create visually appealing and well-structured websites. HTML5 introduces semantic elements like <header>, <footer>, <section>, and <article>, which enable developers to divide and define content more clearly and meaningfully.
+In this module, I developed a deeper understanding of how HTML5 and CSS work together to create visually appealing and well-structured websites. HTML5 introduces semantic elements like header, footer, section, and article, which enable developers to divide and define content more clearly and meaningfully.
 
 I learned how HTML5 input types—including dates, emails, times, and numbers—enhance user interactivity by streamlining data entry and validation within forms. These features are widely supported across modern browsers, enabling consistent user experiences.
 
