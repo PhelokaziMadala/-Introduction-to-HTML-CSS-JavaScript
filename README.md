@@ -35,14 +35,12 @@ This hands-on project involved:
 
 Editing and correcting HTML to ensure proper structure and semantic accuracy.
 ![aboutme](https://github.com/user-attachments/assets/0417c51c-30ed-42d2-be6e-e9f08417c600)
-![Screenshot (24)](https://github.com/user-attachments/assets/a974c8ff-592b-4ee9-ab61-79a0c5883cc2)
 
 Enhancing CSS styling to deliver a clean, user-friendly interface.
 ![nav_bar](https://github.com/user-attachments/assets/71b1ecfd-b307-44ca-979b-886e2f796a98)
 ![home-icon](https://github.com/user-attachments/assets/d9f3f05e-0745-4f0c-9941-5eeb3f3e5e51)
 
 Writing JavaScript to implement a simple interest calculator, adding interactive functionality.
-
 ![skills](https://github.com/user-attachments/assets/154a0140-7d50-46ea-9d35-1d2ad302563f)
 ![recommendations](https://github.com/user-attachments/assets/1716fb35-b2d2-4317-a73d-21db09437a01)
 ![projects](https://github.com/user-attachments/assets/100e6962-9804-49bb-8028-6a19ef7123b5)
