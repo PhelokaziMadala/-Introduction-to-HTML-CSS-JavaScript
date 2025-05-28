@@ -34,10 +34,10 @@ In this final module, I applied my front-end development skills to build a singl
 This hands-on project involved:
 
 Editing and correcting HTML to ensure proper structure and semantic accuracy.
+![nav_bar](https://github.com/user-attachments/assets/71b1ecfd-b307-44ca-979b-886e2f796a98)
 ![aboutme](https://github.com/user-attachments/assets/0417c51c-30ed-42d2-be6e-e9f08417c600)
 
 Enhancing CSS styling to deliver a clean, user-friendly interface.
-![nav_bar](https://github.com/user-attachments/assets/71b1ecfd-b307-44ca-979b-886e2f796a98)
 ![home-icon](https://github.com/user-attachments/assets/d9f3f05e-0745-4f0c-9941-5eeb3f3e5e51)
 
 Writing JavaScript to implement a simple interest calculator, adding interactive functionality.
