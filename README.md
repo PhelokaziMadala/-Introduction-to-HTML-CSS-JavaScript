@@ -39,6 +39,7 @@ Editing and correcting HTML to ensure proper structure and semantic accuracy.
 ![aboutme](https://github.com/user-attachments/assets/0417c51c-30ed-42d2-be6e-e9f08417c600)
 
 Enhancing CSS styling to deliver a clean, user-friendly interface.
+![popup](https://github.com/user-attachments/assets/bbbab76b-cd27-4ff4-918b-588a442d18c0)
 ![skills](https://github.com/user-attachments/assets/154a0140-7d50-46ea-9d35-1d2ad302563f)
 
 Writing JavaScript to implement a simple interest calculator, adding interactive functionality.
@@ -47,7 +48,7 @@ Writing JavaScript to implement a simple interest calculator, adding interactive
 
 
 Testing the web application to confirm all features worked as intended.
-![popup](https://github.com/user-attachments/assets/bbbab76b-cd27-4ff4-918b-588a442d18c0)
+
 ![new_recommendation](https://github.com/user-attachments/assets/95cd4b5d-b1ea-4d25-a319-20f2bd99bbda)
 ![home-icon](https://github.com/user-attachments/assets/d9f3f05e-0745-4f0c-9941-5eeb3f3e5e51)
 
